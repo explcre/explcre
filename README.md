@@ -1,4 +1,5 @@
-### Hi there 👋 I am Pengcheng Xu.
+### Hi there 👋 I am Pengcheng Xu. 
+### Welcome to talk to ChatGPT version of me on my [website](https://explcre.github.io/mychat/)😄!
 
 <!--
 **explcre/explcre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,8 +31,8 @@ phenotypes using multi-task learning](https://github.com/explcre/Adaptable-and-i
     - Deep Learning Software Engineer Intern at Intel Corporation, working on [Intel Neural Compressor](https://github.com/intel/neural-compressor), and ML inference server software. 
     - Algorithms Intern at [Shukun Technology Co.,Ltd](https://www.shukun.net), working on [Multi-node Training for 3D-UNet with horovod](https://github.com/explcre/SHUKUN-Technology-AlgorithmIntern-MultiNodeTraining-for-DLmodels-Horovod-ConfigurationTutorial-Perf), [horovod](https://github.com/horovod/horovod). 
     
-- 📫 My mobile phone number is +1 2175501337. My email is px6@illinois.edu. [My Linkedin](https://www.linkedin.com/in/pengcheng-xu-ryan/).
-- 😄 Welcome to talk to ChatGPT version of me on my [website](https://explcre.github.io/mychat/)!
+- 📫 My mobile phone number is +1 2175501337. My email is px6@illinois.edu. My [Linkedin](https://www.linkedin.com/in/pengcheng-xu-ryan/).
+
 
 
 
