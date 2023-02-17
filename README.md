@@ -24,5 +24,5 @@ I have completed my Bachelor's degree from University of Michigan - Shanghai Jia
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+![](https://github-readme-stats.vercel.app/api?username=explcre)
 
