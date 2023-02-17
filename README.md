@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I am now pursuing a master's degree in University of Illinois Champaign. My major is Electrical and Computer Engineering. I am expected to graduate in December 2023. 
-
 I have completed my Bachelor's degree from University of Michigan - Shanghai Jiao Tong University Joint institute, also majoring in ECE. 
 - 🎸 I love singing, playing the guitar, working out, playing basketball, tennis, swimming, reading, watching films, and everything about science and technology. I admire Richard Feynman and Elon Musk. 
 - 💻 As for programming language, I am good at C/C++, Python. I also have project experience in MATLAB, Verilog, Java, R, Javascript. 
