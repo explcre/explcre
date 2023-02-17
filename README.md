@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 - 🎸 I love singing, playing the guitar, working out, playing basketball, tennis, swimming, reading, watching films, and everything about science and technology. I admire Richard Feynman and Elon Musk. 
 - 💻 As for programming language, I am good at C, C++, Python. I also have project experience in MATLAB, Verilog, Java, R, Javascript. I have experiences in the following framworks and libraries: PyTorch, TensorFlow, Keras, Sk-learn, Pandas, Horovod.
 - 🔭 I am interested in applied machine learning for healthcare or science or computer systems, distributed systems and distributed learning, computer architecture.
-- 💼 I'm currently working on 
-    - [MeiNN: Methylation embedding interpretable neural 
+- 🔬 Research and 💼 Work Experience: 
+    - I have been working on [MeiNN: Methylation embedding interpretable neural 
 network to find Common functions of DNA methylation in 
-phenotypes using multi-task learning](https://github.com/explcre/Adaptable-and-intrepretable-multi-task-learning-based-gene-level-methylation-estimation). 
+phenotypes using multi-task learning](https://github.com/explcre/Adaptable-and-intrepretable-multi-task-learning-based-gene-level-methylation-estimation) since Sep,2021. 
     - I have been Multi-modal Cognitive Computing Algorithm Intern at [Shanghai AI Laboratory](www.shlab.org.cn).
     - I have open-source software development experience for [OpenMLDB](https://github.com/4paradigm/OpenMLDB).
     - Deep Learning Software Engineer Intern at Intel Corporation, working on [Intel Neural Compressor](https://github.com/intel/neural-compressor), and ML inference server software. 
