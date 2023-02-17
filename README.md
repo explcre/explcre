@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 Education:
     - I am now pursuing a Master's degree in [University of Illinois Urbana-Champaign](https://illinois.edu/). My major is Electrical and Computer Engineering. I am expected to graduate in December 2023. 
     - I have completed my Bachelor's degree from [University of Michigan - Shanghai Jiao Tong University Joint institute](https://www.ji.sjtu.edu.cn) (2018-2022), also majoring in ECE. 
-- 🎸 I love singing, playing the guitar, working out, playing basketball, tennis, swimming, reading, watching films, and everything about science and technology. I admire Richard Feynman and Elon Musk. See my video about some tech explanation and guitar playing at [My bilibili](https://space.bilibili.com/86835117/video).
+- 🎸 I love singing, playing the guitar, working out, playing basketball, tennis, swimming, reading, watching films, and everything about science and technology. I admire Richard Feynman and Elon Musk. See my video about some technology explanation and guitar playing at [My bilibili](https://space.bilibili.com/86835117/).
 - 💻 As for programming language, I am good at C, C++, Python. I also have project experience in MATLAB, Verilog, Java, R, Javascript. I have experiences in the following framworks and libraries: PyTorch, TensorFlow, Keras, Sk-learn, Pandas, Horovod.
 - 🔭 I am interested in applied machine learning for healthcare or science or computer systems, distributed systems and distributed learning, computer architecture.
 - 🔬 Research and 💼 Work Experience: 
@@ -31,7 +31,7 @@ phenotypes using multi-task learning](https://github.com/explcre/Adaptable-and-i
     - Deep Learning Software Engineer Intern at Intel Corporation, working on [Intel Neural Compressor](https://github.com/intel/neural-compressor), and ML inference server software. 
     - Algorithms Intern at [Shukun Technology Co.,Ltd](https://www.shukun.net), working on [Multi-node Training for 3D-UNet with horovod](https://github.com/explcre/SHUKUN-Technology-AlgorithmIntern-MultiNodeTraining-for-DLmodels-Horovod-ConfigurationTutorial-Perf), [horovod](https://github.com/horovod/horovod). 
     
-- 📫 My mobile phone number is +1 2175501337. My email is px6@illinois.edu. My [Linkedin](https://www.linkedin.com/in/pengcheng-xu-ryan/).
+- 📫 My mobile phone number is +1 2175501337. My email is px6@illinois.edu. My [Linkedin](https://www.linkedin.com/in/pengcheng-xu-ryan/). My [Instagram](https://www.instagram.com/xpc_1025/).
 
 
 
