@@ -20,6 +20,9 @@ I have completed my Bachelor's degree from University of Michigan - Shanghai Jia
 - 🎸 I love singing, playing the guitar, working out, playing basketball, tennis, swimming, reading, watching films, and everything about science and technology. I admire Richard Feynman and Elon Musk. 
 - 💻 As for programming language, I am good at C/C++, Python. I also have project experience in MATLAB, Verilog, Java, R, Javascript. 
 - 🔭 I am interested in applied machine learning for healthcare or science or computer systems, distributed systems and distributed learning, computer architecture.
+- 💼 I'm currently working on [MeiNN: Methylation embedding interpretable neural 
+network to find Common functions of DNA methylation in 
+phenotypes using multi-task learning](https://github.com/explcre/Adaptable-and-intrepretable-multi-task-learning-based-gene-level-methylation-estimation).I have open-source software development experience for [OpenMLDB](https://github.com/4paradigm/OpenMLDB).
 - 📫 My mobile phone number is +1 2175501337. My email is px6@illinois.edu.
 
 
