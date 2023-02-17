@@ -22,8 +22,9 @@ I have completed my Bachelor's degree from University of Michigan - Shanghai Jia
 - 🔭 I am interested in applied machine learning for healthcare or science or computer systems, distributed systems and distributed learning, computer architecture.
 - 💼 I'm currently working on [MeiNN: Methylation embedding interpretable neural 
 network to find Common functions of DNA methylation in 
-phenotypes using multi-task learning](https://github.com/explcre/Adaptable-and-intrepretable-multi-task-learning-based-gene-level-methylation-estimation).I have open-source software development experience for [OpenMLDB](https://github.com/4paradigm/OpenMLDB).
+phenotypes using multi-task learning](https://github.com/explcre/Adaptable-and-intrepretable-multi-task-learning-based-gene-level-methylation-estimation). I have been Multi-modal Cognitive Computing Algorithm Intern at [Shanghai AI Laboratory](www.shlab.org.cn)， Deep Learning Software Engineer Intern at Intel Corporation, working on [Intel Neural Compressor](https://github.com/intel/neural-compressor), and ML inference server software. Algorithms Intern at [Shukun Technology Co.,Ltd](https://www.shukun.net), working on [Multi-node Training for 3D-UNet with horovod](https://github.com/explcre/SHUKUN-Technology-AlgorithmIntern-MultiNodeTraining-for-DLmodels-Horovod-ConfigurationTutorial-Perf), [horovod](https://github.com/horovod/horovod). I have open-source software development experience for [OpenMLDB](https://github.com/4paradigm/OpenMLDB).
 - 📫 My mobile phone number is +1 2175501337. My email is px6@illinois.edu.
+- 😄 Welcome to talk to ChatGPT version of me on my [website](https://explcre.github.io/mychat/)!
 
 
 
