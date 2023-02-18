@@ -17,23 +17,21 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Education:
-    - I am now pursuing a Master's degree in [University of Illinois Urbana-Champaign](https://illinois.edu/). My major is Electrical and Computer Engineering. I am expected to graduate in December 2023. 
-    - I have completed my Bachelor's degree from [University of Michigan - Shanghai Jiao Tong University Joint institute](https://www.ji.sjtu.edu.cn) (2018-2022), also majoring in ECE. 
-- 🎸 I love singing, playing the guitar, working out, playing basketball, tennis, swimming, reading, watching films, and everything about science and technology. I admire Richard Feynman and Elon Musk. See my video about some technology explanation and guitar playing at [My bilibili](https://space.bilibili.com/86835117/).
-- 💻 As for programming language, I am good at C, C++, Python. I also have project experience in MATLAB, Verilog, Java, R, Javascript. I have experiences in the following framworks and libraries: PyTorch, TensorFlow, Keras, Sk-learn, Pandas, Horovod.
-- 🔭 I am interested in applied machine learning for healthcare or science or computer systems, distributed systems and distributed learning, computer architecture.
+    - Currently, I'm pursuing a Master's degree in Electrical and Computer Engineering from the [University of Illinois Urbana-Champaign](https://illinois.edu/), which I'm expected to complete by December 2023. 
+    - I previously obtained my Bachelor's degree in the same field from the [University of Michigan - Shanghai Jiao Tong University Joint institute](https://www.ji.sjtu.edu.cn) between 2018 and 2022. 
+- 🎸 In my free time, I enjoy singing, playing the guitar, working out, playing basketball, tennis, swimming, reading, watching films, and exploring everything related to science and technology. I'm particularly inspired by Richard Feynman and Elon Musk. You can check out some of my technology explanations and guitar playing on My [bilibili](https://space.bilibili.com/86835117/).
+- 💻 When it comes to programming languages, I'm skilled in C, C++, and Python. Additionally, I have project experience with MATLAB, Verilog, Java, R, and Javascript. I also have experience using various frameworks and libraries such as PyTorch, TensorFlow, Keras, Sk-learn, Pandas, and Horovod.
+- 🔭 My main interests are in applied machine learning for healthcare or science, computer systems, distributed systems and distributed learning, and computer architecture.
 - 🔬 Research and 💼 Work Experience: 
     - I have been working on [MeiNN: Methylation embedding interpretable neural 
 network to find Common functions of DNA methylation in 
 phenotypes using multi-task learning](https://github.com/explcre/Adaptable-and-intrepretable-multi-task-learning-based-gene-level-methylation-estimation) since Sep,2021. 
-    - I have been Multi-modal Cognitive Computing Algorithm Intern at [Shanghai AI Laboratory](www.shlab.org.cn).
+    - I have been interned as a Multi-modal Cognitive Computing Algorithm Intern at [Shanghai AI Laboratory](www.shlab.org.cn).
     - I have open-source software development experience for [OpenMLDB](https://github.com/4paradigm/OpenMLDB).
     - Deep Learning Software Engineer Intern at Intel Corporation, working on [Intel Neural Compressor](https://github.com/intel/neural-compressor), and ML inference server software. 
     - Algorithms Intern at [Shukun Technology Co.,Ltd](https://www.shukun.net), working on [Multi-node Training for 3D-UNet with horovod](https://github.com/explcre/SHUKUN-Technology-AlgorithmIntern-MultiNodeTraining-for-DLmodels-Horovod-ConfigurationTutorial-Perf), [horovod](https://github.com/horovod/horovod). 
     
-- 📫 My mobile phone number is +1 2175501337. My email is px6@illinois.edu. My [Linkedin](https://www.linkedin.com/in/pengcheng-xu-ryan/). My [Instagram](https://www.instagram.com/xpc_1025/).
-
-
+- 📫 If you'd like to get in touch with me, you can reach me on my mobile phone at +1 2175501337 or via email at px6@illinois.edu. You can also connect with me on [Linkedin](https://www.linkedin.com/in/pengcheng-xu-ryan/) or [Instagram](https://www.instagram.com/xpc_1025/). 
 
 
     ![](https://github-readme-stats.vercel.app/api?username=explcre)
