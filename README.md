@@ -31,7 +31,11 @@ phenotypes using multi-task learning](https://github.com/explcre/Adaptable-and-i
     - Deep Learning Software Engineer Intern at Intel Corporation, working on [Intel Neural Compressor](https://github.com/intel/neural-compressor), and ML inference server software. 
     - Algorithms Intern at [Shukun Technology Co.,Ltd](https://www.shukun.net), working on [Multi-node Training for 3D-UNet with horovod](https://github.com/explcre/SHUKUN-Technology-AlgorithmIntern-MultiNodeTraining-for-DLmodels-Horovod-ConfigurationTutorial-Perf), [horovod](https://github.com/horovod/horovod). 
     
-- 📫 If you'd like to get in touch with me, you can reach me on my mobile phone at +1 2175501337 or via email at px6@illinois.edu. You can also connect with me on [Linkedin](https://www.linkedin.com/in/pengcheng-xu-ryan/) or [Instagram](https://www.instagram.com/xpc_1025/). 
+- 📫 If you'd like to get in touch with me, you can reach me on 
+    - My mobile phone: +1 2175501337 
+    - My Email: px6@illinois.edu. 
+    - My [Linkedin](https://www.linkedin.com/in/pengcheng-xu-ryan/) 
+    - My [Instagram](https://www.instagram.com/xpc_1025/). 
 
 
     ![](https://github-readme-stats.vercel.app/api?username=explcre)
