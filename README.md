@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 network to find Common functions of DNA methylation in 
 phenotypes using multi-task learning](https://github.com/explcre/Adaptable-and-intrepretable-multi-task-learning-based-gene-level-methylation-estimation) since Sep,2021. 
     - I have been interned as a Multi-modal Cognitive Computing Algorithm Intern at [Shanghai AI Laboratory](www.shlab.org.cn). I worked on Multi-modal target detection with zero-shot depth estimation, Multi-modal Neural Architecture Search.
-    - I have open-source software development experience for [OpenMLDB](https://github.com/4paradigm/OpenMLDB), it's a ML related Database developed by an AI company [4Paradigm Co.,Ltd](https://en.4paradigm.com/index.html). I developed AutoFE:automated feature engineering tool. See [my pull request](https://github.com/4paradigm/OpenMLDB/pull/2381).
+    - I have open-source software development experience for [OpenMLDB](https://github.com/4paradigm/OpenMLDB), it's a ML related Database developed by an AI company [4Paradigm Co.,Ltd](https://en.4paradigm.com/index.html). I developed AutoFE: automated feature engineering tool. See [my pull request](https://github.com/4paradigm/OpenMLDB/pull/2381).
     - Deep Learning Software Engineer Intern at Intel Corporation, working on [Intel Neural Compressor](https://github.com/intel/neural-compressor), and ML inference server software. 
     - Algorithms Intern at [Shukun Technology Co.,Ltd](https://www.shukun.net), working on [Multi-node Training for 3D-UNet with horovod](https://github.com/explcre/SHUKUN-Technology-AlgorithmIntern-MultiNodeTraining-for-DLmodels-Horovod-ConfigurationTutorial-Perf), [horovod](https://github.com/horovod/horovod). 
     
