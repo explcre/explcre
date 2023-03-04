@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Pengcheng Xu. 
 ### Welcome to talk to ChatGPT version of me on my [website](https://explcre.github.io/mychat/)😄! 
-[ChatGPT-Chatbot-Personal-Website repo is here](https://github.com/explcre/ChatGPT-Personalized-Portfolio-Website).
+[ChatGPT-Chatbot-Personal-Website repo is here](https://github.com/explcre/ChatGPT-Chatbot-Personal-Website).
 If you think it's cool or want to use it, please star it! Thank you~
 <!--
 **explcre/explcre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
