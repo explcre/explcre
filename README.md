@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     - I previously obtained my Bachelor's degree in the same field ECE from the [University of Michigan - Shanghai Jiao Tong University Joint institute](https://www.ji.sjtu.edu.cn) between 2018 and 2022. 
 - 🎸 In my free time, I enjoy singing, playing the guitar, working out, playing basketball, tennis, swimming, reading, watching films, and exploring everything related to science and technology. I'm particularly inspired by Richard Feynman and Elon Musk. You can check out some of my technology explanations and guitar playing on My [bilibili](https://space.bilibili.com/86835117/).
 - 💻 When it comes to programming languages, I'm skilled in C, C++, and Python. Additionally, I have project experience with MATLAB, Verilog, Java, R, and Javascript. I also have experience using various frameworks and libraries such as PyTorch, TensorFlow, Keras, Sk-learn, Pandas, and Horovod.
-- 🔭 My main interests are in applied machine learning for healthcare or science, computer vision, computer systems, distributed systems and distributed learning, and computer architecture.
+- 🔭 My main interests are in applied machine learning for healthcare or science, computer vision, multi-modal learning, computer systems, distributed systems and distributed learning, and computer architecture.
 - 🔬 Research and 💼 Work Experience: 
     - I have been working on [MeiNN: Methylation embedding interpretable neural 
 network to find Common functions of DNA methylation in 
