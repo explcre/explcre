@@ -3,6 +3,9 @@
 ### Welcome to talk to ChatGPT version of me on my [PengchengGPT website](https://explcre.github.io/mychat/)😄! 
 [ChatGPT-Chatbot-Personal-Website repo is here](https://github.com/explcre/ChatGPT-Chatbot-Personal-Website).
 If you think it's cool or want to use it, please star it! Thank you~
+
+Here is my warm greetings! Welcome to my home page. My name is Pengcheng Xu(pronounced as Peng-cheng Hsu).
+In Chinese, my name is written as 徐鹏程, where 徐 is Xu, 鹏 is Peng, 程 is Cheng. 徐 is my surname(Also has the meaning of slow). 鹏 is a giant bird in ancient Chinese myth. It has huge wings and can fly 5000 kilometers at a time. 程 means journey. So, basically my name means the journey of the huge bird 鹏.This name carries the hope of my parents for me to have a bright and shining future, as well as a promising and ambitious path ahead.
 <!--
 **explcre/explcre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
