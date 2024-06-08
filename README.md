@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Education:
-    - I am going to study for Computer Sciencce PhD Degree at UC Irvine. 
+    - I am going to study for Computer Sciencce PhD Degree at UC Irvine starting from 24Fall. 
     - I completed a Master's degree in Electrical and Computer Engineering at the [University of Illinois Urbana-Champaign](https://illinois.edu/) by December 2023.
     - I previously obtained my Bachelor's degree in the same field ECE from the [University of Michigan - Shanghai Jiao Tong University Joint institute](https://www.ji.sjtu.edu.cn) between 2018 and 2022. 
 - 🎸 In my free time, I enjoy singing, playing the guitar, working out, playing basketball, tennis, swimming, reading, watching films, and exploring everything related to science and technology. I'm particularly inspired by Richard Feynman and Elon Musk. You can check out some of my technology explanations and guitar playing on My [bilibili](https://space.bilibili.com/86835117/).
