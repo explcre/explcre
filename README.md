@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Education:
-    - Currently, I'm pursuing a Master's degree in Electrical and Computer Engineering from the [University of Illinois Urbana-Champaign](https://illinois.edu/), which I'm expected to complete by December 2023. 
+    - I am going to study for Computer Sciencce PhD Degree at UC Irvine. 
+    - I completed a Master's degree in Electrical and Computer Engineering at the [University of Illinois Urbana-Champaign](https://illinois.edu/) by December 2023.
     - I previously obtained my Bachelor's degree in the same field ECE from the [University of Michigan - Shanghai Jiao Tong University Joint institute](https://www.ji.sjtu.edu.cn) between 2018 and 2022. 
 - 🎸 In my free time, I enjoy singing, playing the guitar, working out, playing basketball, tennis, swimming, reading, watching films, and exploring everything related to science and technology. I'm particularly inspired by Richard Feynman and Elon Musk. You can check out some of my technology explanations and guitar playing on My [bilibili](https://space.bilibili.com/86835117/).
 - 💻 When it comes to programming languages, I'm skilled in C, C++, and Python. Additionally, I have project experience with MATLAB, Verilog, Java, R, and Javascript. I also have experience using various frameworks and libraries such as PyTorch, TensorFlow, Keras, Sk-learn, Pandas, and Horovod.
@@ -34,7 +35,7 @@ phenotypes using multi-task learning](https://github.com/explcre/Adaptable-and-i
     - I have been interned as a Multi-modal Cognitive Computing Algorithm Intern at [Shanghai AI Laboratory](www.shlab.org.cn). I worked on Multi-modal target detection with zero-shot depth estimation, Multi-modal Neural Architecture Search.
     - I have open-source software development experience for [OpenMLDB](https://github.com/4paradigm/OpenMLDB), it's a ML related Database developed by an AI company [4Paradigm Co.,Ltd](https://en.4paradigm.com/index.html). I developed AutoFE: automated feature engineering tool. See [my pull request](https://github.com/4paradigm/OpenMLDB/pull/2381). See my [presentation for 4Paradigm in public in "OpenMLDB Meetup No.7"](https://www.bilibili.com/video/BV1pe4y1t7wH/?share_source=copy_web&vd_source=986cc4a343d48f7717cede6222a5413a). See [OpenMLDB-GitLink Code Camp 2022 mid-term presentation](https://www.bilibili.com/video/BV1jG41147LY/?share_source=copy_web&vd_source=986cc4a343d48f7717cede6222a5413a).
     - Deep Learning Software Engineer Intern at Intel Corporation, working on [Intel Neural Compressor](https://github.com/intel/neural-compressor), and ML inference server software. 
-    - Algorithms Intern at [Shukun Technology Co.,Ltd](https://www.shukun.net), working on [Multi-node Training for 3D-UNet with horovod](https://github.com/explcre/SHUKUN-Technology-AlgorithmIntern-MultiNodeTraining-for-DLmodels-Horovod-ConfigurationTutorial-Perf), [horovod](https://github.com/horovod/horovod). See [my presentation for my study in multi-node training and horovod(2.8k+ view)](https://www.bilibili.com/video/BV1aS4y1C7i1/?share_source=copy_web&vd_source=986cc4a343d48f7717cede6222a5413a).
+    - Algorithms Intern at [Shukun Technology Co.,Ltd](https://www.shukun.net), working on [Multi-node Training for 3D-UNet with horovod](https://github.com/explcre/SHUKUN-Technology-AlgorithmIntern-MultiNodeTraining-for-DLmodels-Horovod-ConfigurationTutorial-Perf), [horovod](https://github.com/horovod/horovod). See [my presentation for my study in multi-node training and horovod(6.3+ view)](https://www.bilibili.com/video/BV1aS4y1C7i1/?share_source=copy_web&vd_source=986cc4a343d48f7717cede6222a5413a).
     
 - 📫 If you'd like to get in touch with me, you can reach me on 
     - My mobile phone: +1 2175501337 
