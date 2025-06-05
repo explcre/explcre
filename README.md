@@ -40,7 +40,7 @@ phenotypes using multi-task learning](https://github.com/explcre/Adaptable-and-i
     
 - 📫 If you'd like to get in touch with me, you can reach me on 
     - My mobile phone: +1 2175501337 
-    - My Email: px6@illinois.edu. 
+    - My Email: pengcheng.xu@uci.edu. 
     - My [Linkedin](https://www.linkedin.com/in/pengcheng-xu-ryan/) 
     - My [Instagram](https://www.instagram.com/xpc_1025/). 
 
