@@ -3,7 +3,7 @@
 ### Welcome to talk to ChatGPT version of me on my [PengchengGPT website](https://explcre.github.io/mychat/)😄! 
 [ChatGPT-Chatbot-Personal-Website repo is here](https://github.com/explcre/ChatGPT-Chatbot-Personal-Website).
 If you think it's cool or want to use it, please star it! Thank you~
-### Welcome to play a funny battle game on [Wacky Brawlers]([https://explcre.github.io/mychat/](https://explcre.github.io/bodyfight/bodyfight_latest.html)😄! 
+### Welcome to play a funny battle game on [Wacky Brawlers](https://explcre.github.io/bodyfight/bodyfight_latest.html)😄! 
 I am welcome to any suggestions and bugs you found! Planning to make it a online multiplayer game.
 
 
